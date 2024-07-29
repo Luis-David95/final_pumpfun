@@ -14,7 +14,7 @@ The **Pump.fun Smart Contract** is an innovative platform  designed to allow use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dappsol/pump.fun-smart-contract.git
+   git clone https://github.com/Luis-David95/final_pumpfun.git
    cd pump.fun-smart-contract
    ```
 
@@ -26,4 +26,4 @@ The **Pump.fun Smart Contract** is an innovative platform  designed to allow use
 
 ### Please fork to use it and follow me on github.
 
-### If you want more customized app, please contact [@s0lb0t](https://t.me/s0lb0t) in Telegram and [.s0lb0t](https://discordapp.com/users/1074553493974691840) in Discord
+### If you want more customized app, please contact [@LuisDavid011012](https://t.me/LuisDavid011012) in Telegram and [.LuisDavid011012](https://discordapp.com/users/1074553493974691849) in Discord
