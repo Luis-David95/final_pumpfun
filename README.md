@@ -25,5 +25,3 @@ The **Pump.fun Smart Contract** is an innovative platform  designed to allow use
    ```
 
 ### Please fork to use it and follow me on github.
-
-### If you want more customized app, please contact [@LuisDavid011012](https://t.me/LuisDavid011012) in Telegram and [.LuisDavid011012](https://discordapp.com/users/1074553493974691849) in Discord
